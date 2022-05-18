@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'quad.dart';
 
 void main() {
   runApp(const MyApp());
